@@ -837,15 +837,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - scikit-learn community for excellent ML tools
 - Kaggle for hosting quality datasets
 
----
-
-## 📞 Contact & Collaboration
-
-Interested in collaborating or have questions? 
-
-- **Email**: luke.opany@example.com
-- **GitHub Issues**: [Report bugs or suggest features](https://github.com/LukeOpany/music_popularity/issues)
-- **Discussions**: [Join the conversation](https://github.com/LukeOpany/music_popularity/discussions)
 
 ---
 
