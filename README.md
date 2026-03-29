@@ -676,7 +676,7 @@ curl -X POST http://localhost:5000/predict \
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## Testing & Quality Assurance
 
 ### Unit Tests
 
@@ -720,7 +720,7 @@ if __name__ == '__main__':
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 
 ### Schema
@@ -748,7 +748,7 @@ Popularity Distribution:
   - High (67-100): 23%
 ```
 
-#### 📊 Data Distribution Visualization
+#### Data Distribution Visualization
 
 ```python
 # Code to generate popularity distribution chart
@@ -788,7 +788,7 @@ plt.show()
 
 ---
 
-## 🎓 Key Learnings & Insights
+## Key Learnings & Insights
 
 ### 1. Feature Engineering Impact
 - **Audio features** are 3x more predictive than metadata alone
@@ -807,7 +807,7 @@ plt.show()
 
 ---
 
-## 🛣️ Roadmap
+## Roadmap
 
 - [ ] **Deep Learning Integration**: LSTM for sequential listening patterns
 - [ ] **Multi-Task Learning**: Predict popularity + genre simultaneously
@@ -818,32 +818,4 @@ plt.show()
 
 ---
 
-## 👨‍💻 Author
 
-**Luke Opany**
-- GitHub: [@LukeOpany](https://github.com/LukeOpany)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Spotify for providing comprehensive audio feature data
-- scikit-learn community for excellent ML tools
-- Kaggle for hosting quality datasets
-
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you found it helpful!**
-
-Made with ❤️ and ☕ by Luke Opany
-
-</div>
