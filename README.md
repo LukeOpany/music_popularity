@@ -145,9 +145,9 @@ plt.show()
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 Intelligent Model Advisor
+### Intelligent Model Advisor
 
 The **ML Model Advisor** is an interactive system that recommends optimal algorithms based on your specific use case:
 
@@ -215,7 +215,7 @@ plt.show()
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
